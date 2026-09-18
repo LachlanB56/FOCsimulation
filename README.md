@@ -2,7 +2,7 @@
 
 A Simulink simulation of Field Oriented Control (FOC) for a surface-mount permanent magnet synchronous motor (PMSM).
 
-> **Status: Work in progress / not working yet.** I'm actively debugging this simulation — the control loop doesn't currently drive the motor correctly. This repo is a snapshot of where I'm at.
+> **Status: Work in progress / not working yet.** I'm actively debugging this simulation, the control loop doesn't currently drive the motor correctly. This repo is a snapshot of where I'm at.
 
 ## Why I'm building this
 
@@ -58,4 +58,4 @@ This is built in Simulink, using a Surface Mount PMSM plant model. The structure
 
 ## Current state / debugging notes
 
-This does **not work correctly yet**. I'm actively debugging the control loop — if you're looking at this repo, assume it's a work in progress rather than a working reference implementation.
+This does **not work correctly yet**. I'm actively debugging the control loop if you're looking at this repo, assume it's a work in progress rather than a working reference implementation.
